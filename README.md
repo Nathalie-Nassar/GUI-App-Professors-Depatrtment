@@ -1,1 +1,1 @@
-# GUI-App-Professors-Depatrtment
+# GUI-App-Professors-Department
